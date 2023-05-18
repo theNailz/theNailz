@@ -1,16 +1,18 @@
-### Hi there 👋
+# Full Stack Developer / DevOps Engineer
 
-<!--
-**theNailz/theNailz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With over 15 years of experience in building full stack webapp
 
-Here are some ideas to get you started:
+## 😎 Happy clients
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./logos/ns.svg" width="100"/> <img src="./logos/nos.svg" width="100"/> <img src="./logos/thiememeulenhoff.svg" width="100"/> <img src="./logos/blink.svg" width="100"/>
+
+## ❤️‍🔥 Loves:
+
+* Javascript
+  * VueJS
+  * ReactJS
+  * NodeJS
+* PHP
+* SQL
+* Linux, Docker and Kubernetes ⛵
+* Coffee ☕
